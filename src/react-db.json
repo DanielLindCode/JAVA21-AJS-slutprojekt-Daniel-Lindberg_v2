@@ -1,0 +1,14 @@
+{
+    "products":[
+        {"id":1,"img":"https://picsum.photos/id/1/2400/1600","name":"Small Healing Potion","price":520,"quantity":0},
+        {"id":2,"img":"https://picsum.photos/id/1/2400/1600","name":"Medium Healing Potion","price":44,"quantity": 0},
+        {"id":3,"img":"https://picsum.photos/id/1/2400/1600","name":"Large Healing Potion","price":350,"quantity": 0},
+        {"id":4,"img":"https://picsum.photos/id/1/2400/1600","name":"Small Mana Potion","price":520,"quantity":0},
+        {"id":5,"img":"https://picsum.photos/id/1/2400/1600","name":"Medium Mana Potion","price":44,"quantity": 0},
+        {"id":6,"img":"https://picsum.photos/id/1/2400/1600","name":"Large Mana Potion","price":350,"quantity": 0}
+
+    ],
+    "users":[
+        {"id": 1,"email":"daniel.lindberg@internet.com","password":"fisk123"}
+    ]
+}
